@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "804185631826",
+    "firebase_url": "https://foodzone-109c1.firebaseio.com",
+    "project_id": "foodzone-109c1",
+    "storage_bucket": "foodzone-109c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804185631826:android:7ad3e1ca939f5bcda3c38b",
+        "android_client_info": {
+          "package_name": "com.foodzone.delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804185631826-uu11u105p9lpg9cb8i2cufqe42912av2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delivery_boy",
+            "certificate_hash": "856d9619830c4a096be08b71c6f85590231620d3"
+          }
+        },
+        {
+          "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2oUv3a_d80nSPf2gtWfdA3TalzLPUDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804185631826-lqvcum118ah3hlu63uvkgo18uu5itj38.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HDFoodZone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804185631826:android:7ec572d596865b25a3c38b",
+        "android_client_info": {
+          "package_name": "com.example.product"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2oUv3a_d80nSPf2gtWfdA3TalzLPUDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804185631826-lqvcum118ah3hlu63uvkgo18uu5itj38.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HDFoodZone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
